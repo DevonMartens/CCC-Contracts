@@ -1,4 +1,4 @@
-# Basic Sample Hardhat Project
+# Harmony One DAO
 
 # Address deployed to on. 4/18
 
